@@ -1,6 +1,6 @@
-FROM parrotstream/centos-openjdk:8
+FROM comchangs/centos-openjdk:8
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 USER root
 
