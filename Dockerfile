@@ -4,7 +4,7 @@ MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 USER root
 
-ENV CDH_VERSION 6.0.0
+ENV CDH_VERSION 6.3.0
 
 ADD cloudera-cdh6.repo /etc/yum.repos.d/
 RUN rpm --import https://archive.cloudera.com/cdh6/$CDH_VERSION/redhat7/yum/RPM-GPG-KEY-cloudera
