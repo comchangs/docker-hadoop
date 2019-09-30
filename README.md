@@ -23,7 +23,7 @@ For example, if you want Apache Hadoop release 2.6.0 on CDH 5.11.1 you can pull 
 
 Run with Docker Compose:
 
-    docker-compose -p parrot up
+    docker-compose -p comchangs up
 
 
 Once started you'll be able to read the list of all the Hadoop Web GUIs urls:
