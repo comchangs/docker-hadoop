@@ -17,9 +17,9 @@ You can also find other images based on different Apache Hadoop releases, using 
     docker pull comchangs/hadoop:[hadoop-release]-[cdh-release]
 
 
-For example, if you want Apache Hadoop release 2.6.0 on CDH 5.11.1 you can pull the image with:
+For example, if you want latest version you can pull the image with:
 
-    docker pull comchangs/hadoop:2.6.0-cdh5.11.1
+    docker pull comchangs/hadoop:latest
 
 Run with Docker Compose:
 
