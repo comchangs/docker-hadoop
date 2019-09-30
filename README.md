@@ -42,14 +42,3 @@ While the Hadoop Docker container is running, you can always get the urls' list 
     print-urls.sh
 
 included in the GitHub source repository.
-
-
-### Available tags:
-
-- Apache Hadoop 3.0.0-cdh6.0.0 ([3.0.0-cdh6.0.0](https://github.com/comchangs/docker-hadoop/blob/3.0.0-cdh6.0.0/Dockerfile))
-- Apache Hadoop 2.8.1 ([2.8.1](https://github.com/comchangs/docker-hadoop/blob/2.8.1/Dockerfile))
-- Apache Hadoop 2.8.0 ([2.8.0](https://github.com/comchangs/docker-hadoop/blob/2.8.0/Dockerfile))
-- Apache Hadoop 2.7.3 ([2.7.3](https://github.com/comchangs/docker-hadoop/blob/2.7.3/Dockerfile))
-- Apache Hadoop 2.6.4 ([2.6.4](https://github.com/comchangs/docker-hadoop/blob/2.6.4/Dockerfile))
-- Apache Hadoop 2.6.0-cdh5.15.1 ([2.6.0-cdh5.15.1](https://github.com/comchangs/docker-hadoop/blob/2.6.0-cdh5.11.1/Dockerfile))
-- Apache Hadoop 2.6.0-cdh5.11.1 ([2.6.0-cdh5.11.1](https://github.com/comchangs/docker-hadoop/blob/2.6.0-cdh5.11.1/Dockerfile))
